@@ -1,65 +1,43 @@
-# Ex 3B Binary Search Tree
-## DATE:15/03/2025
+# Ex12 Add Elements from an Array into a TreeSet
 ## AIM:
-To write a C function to insert the elements in the binary search tree
-
+To write a Java program that adds elements from an array into a TreeSet and displays the elements in sorted order.
 ## Algorithm
-1. Start
-2. Check if the current node is NULL; if true, create a new node with the given key.
-3. Allocate memory for the new node, set its key, and initialize its left and right children to
-NULL.
-4. If the current node is not NULL, compare the key with the current node's key.
-5. If key <= node->key, recursively insert the key into the left subtree and update the left child
-pointer.
-6. If key > node->key, recursively insert the key into the right subtree and update the right
-child pointer.
-7. Return the current node after the insertion.
-8. End
- 
+1. Start the program.
+2. Create an array containing integer elements.
+3. Create a TreeSet object.
+4. Add all elements of the array to the TreeSet using a loop or Collections method.
+5. Display the elements of the TreeSet.
+6. Stop the program.
 
 ## Program:
 ```
 /*
-Program to insert the elements in the binary search tree
-Developed by: T MOUNISH
-RegisterNumber: 212223240098
+Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
+Developed by:T MOUNISH
+RegisterNumber:  212223240098
 */
-structnode{
-int key;
-struct node*left, *right;
-};*/
-struct node* insert(struct node* node, int key)
+import java.util.*;
+
+public class ArrayToTreeSet
+ {
+    public static void main(String[] args)
 {
-if(node==NULL)
-{
-struct node*node=(struct node*)malloc(sizeof(struct node));
-node->key=key;
-node->left=NULL;
-node->right=NULL;
-return node;
+
+        int[] arr = {40, 10, 50, 30, 20};
+        TreeSet<Integer> set = new TreeSet<Integer>();
+        for (int num : arr) {
+            set.add(num);
+        }
+        System.out.println("Elements in TreeSet (Sorted Order): " + set);
+    }
 }
-else
-{
-struct node* cur;
-if(key<=node->key)
-{
-cur=insert(node->left,key);
-node->left=cur;
-}
-else
-{
-cur=insert(node->right,key);
-node->right=cur;
-}
-returnnode;
-}
-}
+
 ```
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/81995326-ec36-4bc3-b7dd-606fdaad6cf3)
+<img width="622" height="153" alt="image" src="https://github.com/user-attachments/assets/247e16b6-a92e-4905-8146-f8003004808f" />
 
 
 ## Result:
-Thus, the C function to insert the elements in the binary search tree is implemented successfully.
+The program successfully adds elements from an array into a TreeSet.
