@@ -36,7 +36,7 @@ public class ArrayToTreeSet
 
 ## Output:
 
-<img width="622" height="153" alt="image" src="https://github.com/user-attachments/assets/247e16b6-a92e-4905-8146-f8003004808f" />
+<img width="798" height="580" alt="image" src="https://github.com/user-attachments/assets/e3164f22-e559-4c04-9009-91292e909907" />
 
 
 ## Result:
