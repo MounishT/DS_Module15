@@ -91,7 +91,7 @@ public class ArrayToTreeSet
 
 ## Output:
 
-<img width="622" height="153" alt="image" src="https://github.com/user-attachments/assets/247e16b6-a92e-4905-8146-f8003004808f" />
+<img width="798" height="580" alt="image" src="https://github.com/user-attachments/assets/e3164f22-e559-4c04-9009-91292e909907" />
 
 
 ## Result:
@@ -137,7 +137,7 @@ public class ArraysFillExample {
 
 ## Output:
 
-<img width="376" height="155" alt="image" src="https://github.com/user-attachments/assets/605faa91-1b39-4c07-97d3-18634f64bc9d" />
+<img width="709" height="322" alt="image" src="https://github.com/user-attachments/assets/c8aef106-1af1-4ff3-8670-95123833a55a" />
 
 
 ## Result:
@@ -199,7 +199,7 @@ public class FirstUniqueNumber {
 
 ## Output:
 
-<img width="490" height="354" alt="image" src="https://github.com/user-attachments/assets/06ac50d8-8b5b-4e78-af96-7d1a89fb123c" />
+<img width="696" height="622" alt="image" src="https://github.com/user-attachments/assets/fef51a3d-b393-4323-8011-a2dd3f0f89b2" />
 
 
 ## Result:
@@ -258,7 +258,7 @@ public class TreeMapValueCheck {
 
 ## Output:
 
-<img width="490" height="354" alt="image" src="https://github.com/user-attachments/assets/5b854451-6a10-42b3-8d88-c5f9eaf5317a" />
+<img width="1025" height="761" alt="image" src="https://github.com/user-attachments/assets/41d0b12b-7276-4a2e-9537-114fee791378" />
 
 
 ## Result:
