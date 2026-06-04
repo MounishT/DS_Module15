@@ -50,7 +50,7 @@ public class TreeMapValueCheck {
 
 ## Output:
 
-<img width="490" height="354" alt="image" src="https://github.com/user-attachments/assets/5b854451-6a10-42b3-8d88-c5f9eaf5317a" />
+<img width="1025" height="761" alt="image" src="https://github.com/user-attachments/assets/41d0b12b-7276-4a2e-9537-114fee791378" />
 
 
 ## Result:
