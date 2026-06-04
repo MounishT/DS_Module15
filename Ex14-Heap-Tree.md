@@ -53,7 +53,7 @@ public class FirstUniqueNumber {
 
 ## Output:
 
-<img width="490" height="354" alt="image" src="https://github.com/user-attachments/assets/06ac50d8-8b5b-4e78-af96-7d1a89fb123c" />
+<img width="696" height="622" alt="image" src="https://github.com/user-attachments/assets/fef51a3d-b393-4323-8011-a2dd3f0f89b2" />
 
 
 ## Result:
