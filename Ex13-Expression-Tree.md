@@ -37,7 +37,7 @@ public class ArraysFillExample {
 
 ## Output:
 
-<img width="376" height="155" alt="image" src="https://github.com/user-attachments/assets/605faa91-1b39-4c07-97d3-18634f64bc9d" />
+<img width="709" height="322" alt="image" src="https://github.com/user-attachments/assets/c8aef106-1af1-4ff3-8670-95123833a55a" />
 
 
 ## Result:
